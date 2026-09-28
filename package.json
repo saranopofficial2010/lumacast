@@ -1,0 +1,9 @@
+{
+  "name": "lumacast-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LumaCast browser capture to RTMPS relay",
+  "scripts": {
+    "start": "node relay-server.js"
+  }
+}
